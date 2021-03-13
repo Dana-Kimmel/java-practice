@@ -3,7 +3,8 @@ package stringMatch;
 public class StringMatchApp {
 
 	public static void main(String[] args) {
-		
+		int result = stringMatch(xxcaazz, xxbaaz);
+	System.out.println(result);
 
 	}
 	
